@@ -1,7 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning Python and web development.
--  💬 Ask me about Github
+- 🌱 I’m currently learning software development.
 
 <!--
 **kaleido1/kaleido1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
